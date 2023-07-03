@@ -1,0 +1,134 @@
+.h5 {
+  margin-right: 900px;
+}
+
+.ormh {
+  /* padding-bottom: 1100px; */
+  margin-right: 450px;
+}
+
+.down {
+padding-bottom: 40px;
+/* margin-top: 165px; */
+ 
+width: 349.98px;
+height: 602.99px;
+background: #FFFFFF;
+border: 1px solid #E5E5E5;
+box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.05);
+border-radius: 15px;
+/* margin-bottom: 50px; */
+}
+
+.ser {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  /* margin-left: 200px; */
+}
+
+
+.ken-ben {
+  display: flex;
+  align-items: center;
+  
+  justify-content: center;
+  padding-bottom: 200px;
+}
+
+.use-grid {
+  /* grid-template-columns: repeat(2,1fr); */
+  /* align-content: flex-end; */
+  
+}
+
+.vlass {
+  border-top: 1px solid #E5E5E5;
+  
+}
+
+.e-grid {
+  display:flex;
+  flex-wrap: wrap;
+  width: 700px;
+  margin-bottom: 420px;
+  
+}
+
+
+
+.close {
+  margin-bottom: 30px;
+  
+width: 156.75px;
+height: 16.58px;
+
+
+font-style: normal;
+font-weight: 400;
+font-size: 13.0065px;
+line-height: 18px;
+
+color: #13AC61;
+
+}
+
+.orderedf {
+  list-style: none;
+  padding-bottom: 75px;
+  padding-top: 25px;
+}
+
+.thirdpage-links {
+  text-decoration: none;
+  color: #1C202C;
+  
+  width: 169.6px;
+  height: 256.94px;
+
+  font-weight: 400;
+  font-size: 14.0065px;
+  line-height: 40px;
+  color: #1C202C;
+}
+
+.new--icon {
+color: #13AC61;
+}
+
+.am {
+  margin-left: 120px;
+}
+.dam {
+  margin-left: 185px;
+}
+
+.rum {
+  margin-left: 83px;
+}
+
+.mam {
+  margin-left: 100px;
+}
+.lol {
+  margin-left: 153px;
+}
+.iam {
+  margin-left: 152px;
+}
+.ham {
+  margin-left: 116px;
+}
+.gam {
+  margin-left: 93px;
+}
+.sam {
+  margin-left: 103px;
+}
+.dea {
+  margin-left: 83px;
+}
+.mea {
+  margin-left: 133px;
+}
